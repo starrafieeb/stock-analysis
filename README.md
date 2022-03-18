@@ -9,22 +9,26 @@ The purpose for this project was to see the growth of stocks in both year 2017 a
 In general as our original code was too heavy and it takes so long to open up, we refactored the code to see the results in the least possible time. That’s why we make arrays to loop through them and first choose the ticker and then the other parameters that we’re looking for 
 and here is my VBA code :
 
+<img width="627" alt="vba1" src="https://user-images.githubusercontent.com/100812201/158972015-fd7d734b-1b65-4aee-aa14-585b7010243a.png">
 
-![vba1](/resources/vba1.png)
+<img width="676" alt="vba2" src="https://user-images.githubusercontent.com/100812201/158972034-2149dde1-d93e-4a1d-9ab3-9dceb6c6c016.png">
 
-![vba2](/resources/vba2.png)
 
 The results that we got so far was useful for us, as we noticed most of the stocks had significant growth in 2017 comare to 2018 and here is the charts:￼
 
-![2017chart](/resources/2017chart.png)
+<img width="600" alt="2017chart" src="https://user-images.githubusercontent.com/100812201/158972268-021acdc3-e663-43a8-b698-d6e1f89eaca1.png">
 
-![2018chart](/resources/2018chart.png)
+
+<img width="618" alt="2018chart" src="https://user-images.githubusercontent.com/100812201/158972284-6d8ddd36-49b6-48c4-8044-32c38dab084b.png">
+
 
 Also here is the elapsed time to run our refactored code for each year :
 
-![time2017](/resources/time2017.png)
+<img width="481" alt="time2017" src="https://user-images.githubusercontent.com/100812201/158972189-a4e36b41-70c9-429b-914a-9bccb0d690e4.png">
 
-![time2018](/resources/time2018.png)
+
+<img width="462" alt="time2018" src="https://user-images.githubusercontent.com/100812201/158972201-d1941396-5230-4f04-8adb-de7ee14ec7cf.png">
+
 
 
 ## Advantage & Disadvantage
