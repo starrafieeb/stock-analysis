@@ -2,7 +2,7 @@
 
 
 ## Purpose of the project
-	The purpose for this project was to see the growth of stocks in both year 2017 and 2018. So we can decide which stock is worth to invest. We had all the information from before but we just wanted to make an efficient way to look out at our results. That’s why we refactor the code from the original data that we had. 
+The purpose for this project was to see the growth of stocks in both year 2017 and 2018. So we can decide which stock is worth to invest. We had all the information from before but we just wanted to make an efficient way to look out at our results. That’s why we refactor the code from the original data that we had. 
   
   
 ## Results
